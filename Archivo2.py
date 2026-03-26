@@ -1,1 +1,0 @@
-#Un termino que aprendi fue issue, es una herramienta de seguimiento para gestionar tareas.
